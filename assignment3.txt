@@ -1,0 +1,4 @@
+Remove punctuation
+Count vowels
+Sort your string
+Check palindrome of a string

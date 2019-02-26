@@ -1,0 +1,7 @@
+W.A.P. To Print Armstrong Number
+Sum of natural numbers
+Factorial number
+Fibbonaci Series
+Palindrome of a number
+LCM of a number
+Prime Number 
